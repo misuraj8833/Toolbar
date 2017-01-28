@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\MishraFamily\AndroidStudioProjects\ToolBar\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="C:\Users\MishraFamily\AndroidStudioProjects\ToolBar\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.2.1_c2481ca29d7a81237cdb6e328f301cfe8aaa4d22\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MishraFamily\AndroidStudioProjects\ToolBar\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\MishraFamily\AndroidStudioProjects\ToolBar\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_b0a5010a697a649b3c3796b8f94cf0e0f0c28414\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MishraFamily\AndroidStudioProjects\ToolBar\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\MishraFamily\AndroidStudioProjects\ToolBar\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_210ecfd892f79a4491a37fbf0ba1dfdbb89994c3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MishraFamily\AndroidStudioProjects\ToolBar\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="C:\Users\MishraFamily\AndroidStudioProjects\ToolBar\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.2.1_11f305e28f18c2a07eab2d5ac76b432e4080cc38\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MishraFamily\AndroidStudioProjects\ToolBar\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e0a55a87032191dded1df8a8cd7af26e9a505597">
+        <dex dex="C:\Users\MishraFamily\AndroidStudioProjects\ToolBar\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_7fb59efb940ac1fb046affcf32d9ba5afd6250dd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MishraFamily\AndroidStudioProjects\ToolBar\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\MishraFamily\AndroidStudioProjects\ToolBar\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_92ad7272af3e0c9c539facaace2f8a0de73c099c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MishraFamily\AndroidStudioProjects\ToolBar\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\MishraFamily\AndroidStudioProjects\ToolBar\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_650f974662efa4c242b5271bbd6d865bae612823\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MishraFamily\AndroidStudioProjects\ToolBar\app\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.0.0-beta4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="662d7533b25a666c649c10a16b42edfb95f25a4f">
+        <dex dex="C:\Users\MishraFamily\AndroidStudioProjects\ToolBar\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support.constraint-constraint-layout-1.0.0-beta4_30fc9632c6d665536709cae732a6be31f585f5d7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MishraFamily\AndroidStudioProjects\ToolBar\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\MishraFamily\AndroidStudioProjects\ToolBar\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_08ced836334da4d790bb97a9e18e084ac17c2933\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MishraFamily\AndroidStudioProjects\ToolBar\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\MishraFamily\AndroidStudioProjects\ToolBar\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_4872bcf9ee835c9a296ccbd7b056ac13ee9863b1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MishraFamily\AndroidStudioProjects\ToolBar\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\MishraFamily\AndroidStudioProjects\ToolBar\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_7ab331151a082d87f60d17e429d27c9412888bbf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MishraFamily\AndroidStudioProjects\ToolBar\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\MishraFamily\AndroidStudioProjects\ToolBar\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_b93108514c633cb8f5427b01ecbb22c701c91895\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MishraFamily\AndroidStudioProjects\ToolBar\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\MishraFamily\AndroidStudioProjects\ToolBar\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_db2b9c7a9eb0c63d782cdd2d9749f68efe7c7fb1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MishraFamily\AndroidStudioProjects\ToolBar\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\MishraFamily\AndroidStudioProjects\ToolBar\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_00a805d00e91b3c6a601924d45326faac984fa2d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MishraFamily\AndroidStudioProjects\ToolBar\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\MishraFamily\AndroidStudioProjects\ToolBar\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_fab384e8a4dab6bd100c7816df8c617e6ea4c656\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MishraFamily\AndroidStudioProjects\ToolBar\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\MishraFamily\AndroidStudioProjects\ToolBar\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_256f450dcaa1c138addcfb8f305486084cdb35ff\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MishraFamily\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.0-beta4\constraint-layout-solver-1.0.0-beta4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a9cb567dc008f570c28531720168f19148da965">
+        <dex dex="C:\Users\MishraFamily\AndroidStudioProjects\ToolBar\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.0-beta4_ed5ca8f9fc523d25b47d9c1979afdc4b72f7cc7b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MishraFamily\AndroidStudioProjects\ToolBar\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\MishraFamily\AndroidStudioProjects\ToolBar\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_5b1bf0425f8deb5edad285be8f291ce5a630797a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MishraFamily\AndroidStudioProjects\ToolBar\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c24836a6e41ec8595bcd5bd8cdfdaa371877ec9d">
+        <dex dex="C:\Users\MishraFamily\AndroidStudioProjects\ToolBar\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_9e8c44686a9182aec6469c22cfba85716945c358\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MishraFamily\AndroidStudioProjects\ToolBar\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\MishraFamily\AndroidStudioProjects\ToolBar\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_967ee3230228f1f9b3b3b8214f6ec9f4129673ad\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MishraFamily\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\MishraFamily\AndroidStudioProjects\ToolBar\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_be21569ffe0fef474a0bcc1cc692c79192ec0aaf\classes.dex" />
+    </item>
+
+</items>

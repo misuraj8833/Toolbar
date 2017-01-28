@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Just For Fun"
+        app:showAsAction="never"
+        android:id="@+id/item_fun" />
+    <item android:title="About Me"
+        android:id="@+id/about_me"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/app_bar_search"
+        android:actionViewClass="android.support.v7.widget.SearchView"
+        android:icon="@drawable/ic_search_black_24dp"
+        android:title="Search"
+        app:showAsAction="always|collapseActionView"
+        app:actionViewClass="android.support.v7.widget.SearchView"/>
+</menu>

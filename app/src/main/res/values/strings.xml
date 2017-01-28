@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">ToolBar</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_movie_description">Movies</string>
+
+    <string name="suicide_squad_desc">
+        Suicide Squad is a 2016 American superhero film based on the DC Comics antihero team of the same name.
+        It is the third installment in the DC Extended Universe.
+        The film is written and directed by David Ayer and stars an ensemble cast consisting of
+        Will Smith, Jared Leto, Margot Robbie, Joel Kinnaman, Viola Davis, Jai Courtney, Jay Hernandez,
+        Adewale Akinnuoye-Agbaje, Ike Barinholtz, Scott Eastwood, and Cara Delevingne.
+        In Suicide Squad, a secret government agency led by Amanda Waller recruits imprisoned supervillains to execute dangerous black ops missions and save the world from a powerful threat,
+        in exchange for leaner sentences.
+    </string>
+
+    <string-array name="array_main">
+        <item>Suicide Squad</item>
+        <item>The Girl With the Dragon Tattoo</item>
+        <item>Shutter Island</item>
+        <item>Jack Reacher</item>
+        <item>Jack Reacher Never Go Back</item>
+        <item>Batman Begins</item>
+        <item>The Dark Knight</item>
+        <item>The Dark Knight Rises</item>
+        <item>Hello</item>
+        <item>Hello</item>
+        <item>Hello</item>
+        <item>Hello</item>
+        <item>Hello</item>
+        <item>Hello</item>
+        <item>Hello</item>
+        <item>Hello</item>
+    </string-array>
+    <string name="title_activity_moviesdescription">Moviesdescription</string>
+</resources>
